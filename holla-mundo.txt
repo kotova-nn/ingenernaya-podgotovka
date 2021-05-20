@@ -3,3 +3,5 @@ Holla Mundo
 Здесь был Петя!
 Здесь был Вася!
 
+Lucky Vasya!
+
